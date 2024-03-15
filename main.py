@@ -1,3 +1,4 @@
+from functions.mostafa import character_remover
 from function.mamado_function import print_numbers
 from functions.atrozy import add_numbers
 from functions.ashraf import ashraf
@@ -11,3 +12,4 @@ result = factorial(5)
 print(result)
 print_numbers()
 add_numbers()
+character_remover("hellllo","l")
